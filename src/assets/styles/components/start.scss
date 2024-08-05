@@ -1,0 +1,15 @@
+.startContainer {
+  background: var(--primary);
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: var(--title);
+  font-size: 25px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  cursor: pointer;
+}

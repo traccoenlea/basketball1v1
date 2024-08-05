@@ -1,0 +1,9 @@
+.homepageContainer {
+  padding: 30px;
+
+  .constraintsContainer {
+    background: red;
+    min-height: 200px;
+    max-height: 300px;
+  }
+}

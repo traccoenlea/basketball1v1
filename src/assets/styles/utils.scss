@@ -1,0 +1,29 @@
+.flex {
+  display: flex;
+}
+
+.flexc {
+  display: flex;
+  flex-direction: column;
+}
+
+.jcb {
+  justify-content: space-between;
+}
+
+.jcc {
+  justify-content: center;
+}
+
+.jce {
+  justify-content: space-evenly;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.mtb20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
